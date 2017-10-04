@@ -8,13 +8,15 @@ if answer=="sum"
 	for i in 1..number
 	summa=summa+i
 end
-end
 	n=summa
+end
+	
 if answer=="multiply"
  for i in 1..number
 	multi=multi*i
 end
-end
 	n=multi
+end
+	
 
-puts "your choice = #{summa}"
+puts "your choice = #{n}"
