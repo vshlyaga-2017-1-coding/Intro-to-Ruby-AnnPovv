@@ -1,0 +1,3 @@
+puts 'what is ur name?'
+name=readline
+puts "hello, #{name}"
